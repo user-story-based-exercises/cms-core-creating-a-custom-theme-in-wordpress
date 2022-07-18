@@ -38,7 +38,7 @@
 - The index.html has been filled with demo HTML so the preview of pages will show a demonstration text
 
 ## User Story 5
-*As a Developer, I want to copy and alter the HTML markup from the Twenty Twenty-Two standard block theme to my own index template, so that I can create a basic template layout quickly"
+*As a Developer, I want to copy and alter the HTML markup from the Twenty Twenty-Two standard block theme to my own index template, so that I can create a basic template layout quickly*
 
 ### Acceptance Criteria
 - The index template features 11 posts per page, the user is able to overwrite this default setting via the WordPress backend
