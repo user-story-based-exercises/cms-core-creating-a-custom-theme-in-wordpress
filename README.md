@@ -9,12 +9,34 @@
 - The index.html has been filled with demo HTML so the preview of pages will show a demonstration text
 
 ## User Story 2
+*As a Developer, I want to create a theme.json for my custom theme, so that I can name my theme for the backend overview and enable additional settings like including custom css.*
+
+### Acceptance Criteria
+- The theme.json with directive to use version 2 exists within the custom theme directory
+
+
+
+## User Story 3
+*As a Developer, I want to provide a standard header and footer for all pages, so that the user has a site navigation and legal information available on each webpage.*
+
+### Acceptance Criteria
+- One header which is automatically selected for the index template is available
+- The header features the website logo (A click on the logo in the header directs to the index of the website)
+- The header features a navigation for the website
+- One footer which is automatically selected for the index template is available
+- The footer features a copyright
+- The footer features a link to the Imprint page 
+- The theme is selectable in the backend
+- The index.html has been filled with demo HTML so the preview of pages will show a demonstration text
+
+## User Story 4
 *As a Developer, I want to copy and alter the HTML markup from the Twenty Twenty-Two standard block theme to my own index template, so that I can create a basic template layout quickly"
 
 ### Acceptance Criteria
-- The index template features 3 posts per page
+- The index template features 3 posts per page, the user is able to overwrite this default setting via the WordPress backend
 - The index shows the featured image along with each post
-- The index features a pagination 
+- The index features a pagination
+- The
 - The index features a footer
 
 ## User Story 3
