@@ -41,14 +41,24 @@
 *As a Developer, I want to copy and alter the HTML markup from the Twenty Twenty-Two standard block theme to my own index template, so that I can create a basic template layout quickly"
 
 ### Acceptance Criteria
-- The index template features 3 posts per page, the user is able to overwrite this default setting via the WordPress backend
+- The index template features 11 posts per page, the user is able to overwrite this default setting via the WordPress backend
 - The index shows the featured image along with each post
 - The index features a pagination
-- The
 - The index features a footer
 
 ## User Story 6
+*As a Developer, I want to create a "Quote with photo" block pattern, so that editors can easily add a photo of the person quoting.*
 
+### Acceptance Criteria
+- A block pattern "Quote with photo" is available for the theme
+- The block pattern is used in at least 2 posts
+
+## User Story 7
+*As a Developer, I want to have my custom theme feature a preview screenshot and a title in the theme selection screen.*
+
+### Acceptance Criteria
+- The theme features a screenshot of itself in the selection screen
+- The theme features a title that is not the folder name in the selection screen
 
 #### Links
-SkillSet: https://my.skilldisplay.eu/en/skillset/507
+SkillSet: https://my.skilldisplay.eu/en/skillset/509
