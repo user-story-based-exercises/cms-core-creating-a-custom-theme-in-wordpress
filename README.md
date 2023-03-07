@@ -34,8 +34,6 @@
 - One footer which is automatically selected for the index template is available
 - The footer features a copyright
 - The footer features a link to the Imprint page 
-- The theme is selectable in the backend
-- The index.html has been filled with demo HTML so the preview of pages will show a demonstration text
 
 ## User Story 5
 *As a Developer, I want to copy and alter the HTML markup from the Twenty Twenty-Two standard block theme to my own index template, so that I can create a basic template layout quickly*
